@@ -1,0 +1,17 @@
+name: MCModel
+version: 0.069
+main: com.camadeusa.MCModelMain
+description: Test Plugin
+
+commands:
+  Pikachu:
+    description: Test spawn.
+  Charmander:
+    description: Test spawn.
+  Squirtle:
+    description: Test spawn.
+  Bulbasaur:
+    description: Test spawn.
+  Stitch:
+    description: Test spawn.
+  
